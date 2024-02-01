@@ -5,6 +5,11 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+/**
+ * Esta clase es la que tiene conexion directa con el Api Externa omdbapi, donde se encuentra toda la informacion
+ * de las peliculas de cine
+ */
+
 public class HttpConnection {
 
     private static final String USER_AGENT = "Mozilla/5.0";
@@ -12,11 +17,11 @@ public class HttpConnection {
 
     /**
      *
-     * @param movie
+     * @param movie es el nombre de la pelicula que el usuario, esta interesado en conocer su informacion
      * @return Devuelve una cadena de texto que contiene toda la informacion de la pelicula que se esta buscando
-     * @throws IOException
+     * @throws IOException es una expecion que puede salir debido a una interrupcion
      */
-    public String  Request(String movie) throws IOException {
+    public String  ResponseRequest(String movie) throws IOException {
 
         URL obj = new URL(GET_URL + movie );
         HttpURLConnection con = (HttpURLConnection) obj.openConnection();
