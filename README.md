@@ -1,4 +1,4 @@
-# AREP-Taller1
+# AREP-Taller1 APLICACIONES DISTRIBUIDAS (HTTP, SOCKETS, HTML, JS,MAVEN, GIT)
 Es una aplicación que nos permite consultar información de peliculas de cine, pero en ves de conectar directamente con el API gratuito de [omdbapi](https://www.omdbapi.com/) que nos provee esta información, se utilizara una Api fachada que nos evita realizar consultas repetidas al Api gratuita que nos brindan.
 
 ## Empezando
