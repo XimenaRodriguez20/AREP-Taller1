@@ -26,7 +26,7 @@ Es una aplicación que nos permite consultar información de peliculas de cine, 
 
   * Para buscar una pelicula debemos escribir el nombre de la pelicula y darle click al boton, en caso contrario si solo damos enter no nos va a dar ninguna información:
     
-     ![image](https://github.com/XimenaRodriguez20/AREP-Taller1/assets/123812926/152e1ce7-97bb-4ce2-bf2a-a260a7eb2a78)
+     ![image](https://github.com/XimenaRodriguez20/AREP-Taller1/assets/123812926/24e370fd-7d8e-44b1-a1cc-dff4f3e869fb)
 
      ![image](https://github.com/XimenaRodriguez20/AREP-Taller1/assets/123812926/f6970537-92fa-4ff2-a5c2-ab184626ed57)
 
