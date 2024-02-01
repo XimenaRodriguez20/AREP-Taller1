@@ -5,4 +5,5 @@ Es una aplicación que nos permite consultar información de peliculas de cine, 
 ## Empezando
 
   * Para obtener una copia del proyecto en su maquina local debe usar el siguiente comando:
-     git clone 
+     git clone https://github.com/XimenaRodriguez20/AREP-Taller1.git
+    
